@@ -4,7 +4,10 @@
 I'm a Final Year Student of Software Development at Galway-Mayo Institute of Technology.<br>
 Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trinity College Dublin.
 
+## GitHub Stats:
+<img align="left" alt="John Shields GitHub Stats" scr="johnshields-github-stats.vercel.app" />
 
+<br>
 
 ### Languages and Tools:
 ![java](https://icon-icons.com/icons2/159/PNG/32/java_22523.png)
