@@ -17,7 +17,9 @@ Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trini
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Spotify]("https://novatorem-gamma-one.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
+<br>
+
+[![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
 
 ### Find me on:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
