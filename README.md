@@ -4,22 +4,19 @@
 I'm a Final Year Student of Software Development at Galway-Mayo Institute of Technology.<br>
 Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trinity College Dublin.
 
-## GitHub Stats:
-<img align="left" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&show_icons=true&hide_border=true" />
-
-
+<img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
-![java](https://icon-icons.com/icons2/159/PNG/32/java_22523.png)
-![csharp](https://icon-icons.com/icons2/2415/PNG/32/csharp_plain_logo_icon_146577.png)
-![unity](https://icon-icons.com/icons2/615/PNG/32/Unity_icon-icons.com_56592.png)
-![python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png)
-![golang](https://icon-icons.com/icons2/2699/PNG/48/golang_logo_icon_171073.png)
-![angular](https://icon-icons.com/icons2/2107/PNG/32/file_type_angular_icon_130754.png)
-![ionic](https://icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![jupyter notebook](https://icon-icons.com/icons2/2667/PNG/32/jupyter_app_icon_161280.png)
-
-<br> 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Find me on:
-[Linkedln](https://www.linkedin.com/in/john-shields-551b86165/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnshields__/)
+
