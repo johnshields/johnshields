@@ -7,7 +7,7 @@ Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trini
 ## GitHub Stats:
 <img align="left" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&show_icons=true&hide_border=true" />
 
-<br>
+
 
 ### Languages and Tools:
 ![java](https://icon-icons.com/icons2/159/PNG/32/java_22523.png)
@@ -18,6 +18,8 @@ Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trini
 ![angular](https://icon-icons.com/icons2/2107/PNG/32/file_type_angular_icon_130754.png)
 ![ionic](https://icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png)
 ![jupyter notebook](https://icon-icons.com/icons2/2667/PNG/32/jupyter_app_icon_161280.png)
+
+<br> 
 
 ### Find me on:
 [Linkedln](https://www.linkedin.com/in/john-shields-551b86165/)
