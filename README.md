@@ -22,9 +22,7 @@ Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trini
 Video Editing :vhs: <br>
 Game Development :video_game: <br>
 Film :movie_camera: <br>
-Surfing 🏄 <br>
-
-<br>
+Surfing 🏄
 
 ### John is now listening to: :notes:
 [![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
