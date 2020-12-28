@@ -1,12 +1,13 @@
 ## Greetings, I'm John! :boom:
 
-### About me :zap:
+### About me: :zap:
 I'm a Final Year Student of Software Development at Galway-Mayo Institute of Technology.<br>
 Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trinity College Dublin.
 
+### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
 <img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&show_icons=true&hide_border=true" />
 
-### Languages and Tools:
+### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -17,11 +18,18 @@ Next year I am hoping to do a Master's in Augmented and Virtual Reality in Trini
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Interests and Hobbies: :runner:
+Video Editing :vhs: <br>
+Game Development :video_game: <br>
+Film :movie_camera: <br>
+Surfing 🏄 <br>
+
 <br>
 
+### John is now listening to: :notes:
 [![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
 
-### Find me on:
+### Find me on: :wave:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnshields__/)
 
