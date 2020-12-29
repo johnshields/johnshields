@@ -30,4 +30,6 @@ Surfing 🏄
 ### Find me on: :wave:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnshields__/)
+[![VSCO](https://icon-icons.com/icons2/2608/PNG/32/vsco_icon_156715.png)](https://vsco.co/shieldsfilm)
+[![Letterboxed](https://icon-icons.com/icons2/2389/PNG/32/letterboxd_logo_icon_145109.png)](https://letterboxd.com/scenesofnoir/)
 
