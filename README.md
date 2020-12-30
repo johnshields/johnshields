@@ -33,3 +33,5 @@ Surfing 🏄
 [![VSCO](https://icon-icons.com/icons2/2608/PNG/32/vsco_icon_156715.png)](https://vsco.co/shieldsfilm)
 [![Letterboxed](https://64.media.tumblr.com/be34739d02f14ecb07129d9fb8c21e60/ea2fdea49375d8f0-76/s75x75_c1/96fa8a451f55199c90b857f87c18872e26d40460.png)](https://letterboxd.com/scenesofnoir/)
 
+### Favorite quote: :anchor:
+"I am a Man of Fortune, and I must seek my Fortune." - Henry Every.
