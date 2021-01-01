@@ -5,7 +5,7 @@ I am a Final Year Student of Software Development at Galway-Mayo Institute of Te
 Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity College Dublin.
 
 ### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
-<img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&show_icons=true&hide_border=true" />
+<img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -27,7 +27,7 @@ Surfing 🏄
 ### John is now listening to: :notes:
 [![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
 
-### Find me on: :wave:
+### Find me on: :milky_way:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnshields__/)
 [![VSCO](https://icon-icons.com/icons2/2608/PNG/32/vsco_icon_156715.png)](https://vsco.co/shieldsfilm)
