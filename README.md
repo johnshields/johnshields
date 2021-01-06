@@ -18,6 +18,10 @@ Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity C
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<!--
+[![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
+-->
+
 ### Interests and Hobbies: :runner:
 Video Editing :vhs: <br>
 Game Development :video_game: <br>
