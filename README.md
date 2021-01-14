@@ -1,8 +1,7 @@
 ## Greetings, I'm John! :boom:
 
 ### About me: :zap:
-I am a Final Year Student of Software Development at Galway-Mayo Institute of Technology.<br>
-Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity College Dublin.
+I am a Final Year Student of Software Development at Galway-Mayo Institute of Technology.
 
 ### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
 <img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&count_private=true&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
@@ -22,6 +21,11 @@ Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity C
 [![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
 
 #### View my Starred Repositories [here](https://github.com/johnshields?tab=stars).
+***
+
+### Qualifications: :mortar_board:
+Bachler of Science in Computing in Software Development 
+
 ***
 ### Interests and Hobbies: :runner:
 Video Editing :vhs: <br>
