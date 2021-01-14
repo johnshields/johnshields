@@ -5,7 +5,7 @@ I am a Final Year Student of Software Development at Galway-Mayo Institute of Te
 Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity College Dublin.
 
 ### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
-<img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="center" src="https://johnshields-github-stats.vercel.app/api?username=johnshields&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=false" />
 
 ### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -21,6 +21,8 @@ Next year, I hope to do a Master's in Augmented and Virtual Reality at Trinity C
 
 [![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
 
+#### View my Starred Repositories [here](https://github.com/johnshields?tab=stars).
+***
 ### Interests and Hobbies: :runner:
 Video Editing :vhs: <br>
 Game Development :video_game: <br>
@@ -38,3 +40,5 @@ Surfing 🏄
 
 ### Favorite quote: :anchor:
 "I am a Man of Fortune, and I must seek my Fortune." - Henry Every.
+***
+###### END OF README
