@@ -20,7 +20,7 @@ I am a Final Year Student of Software Development at Galway-Mayo Institute of Te
 
 [![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
 
-#### View my Starred Repositories [here](https://github.com/johnshields?tab=stars).
+### View my Starred Repositories [here](https://github.com/johnshields?tab=stars).
 ***
 
 ### Qualifications: :mortar_board:
