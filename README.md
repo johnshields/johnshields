@@ -4,7 +4,7 @@
 I am a Final Year Student of Software Development at Galway-Mayo Institute of Technology.
 
 ### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
-<img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&count_private=true&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
