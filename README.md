@@ -39,7 +39,7 @@ Surfing 🏄
 ### Find me on: :milky_way:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnshields__/)
-[![VSCO](https://icon-icons.com/icons2/2608/PNG/32/vsco_icon_156715.png)](https://vsco.co/shieldsfilm)
+[![VSCO](https://icon-icons.com/icons2/2608/PNG/32/vsco_icon_156715.png)](https://vsco.co/john-shields)
 [![Letterboxed](https://64.media.tumblr.com/be34739d02f14ecb07129d9fb8c21e60/ea2fdea49375d8f0-76/s75x75_c1/96fa8a451f55199c90b857f87c18872e26d40460.png)](https://letterboxd.com/scenesofnoir/)
 
 ### Favorite quote: :anchor:
