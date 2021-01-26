@@ -3,7 +3,7 @@
 ### About me: :zap:
 Final Year Student of Software Development at Galway-Mayo Institute of Technology who enjoys App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
-### GitHub Profile: ![github](https://icon-icons.com/icons2/1826/PNG/32/4202098codedevelopergithublogo-115590_115711.png)
+### GitHub Profile: :octocat:
 <img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ### Languages and Tools: :hammer_and_pick:
