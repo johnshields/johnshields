@@ -4,7 +4,7 @@
 Final Year Student of Software Development at Galway-Mayo Institute of Technology who enjoys App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
 ### GitHub Profile: :octocat:
-<img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&include_all_commits=true&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
