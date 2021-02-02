@@ -4,7 +4,7 @@
 Final Year Student of Software Development at Galway-Mayo Institute of Technology who enjoys App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
 ### GitHub Profile: :octocat:
-<img align="center" src="https://github-stats-js.vercel.app/api?username=johnshields&include_all_commits=true&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true" />
+[![JS Git Stats](https://github-stats-js.vercel.app/api?username=johnshields&include_all_commits=true&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true")](https://github.com/johnshields)
 
 ### Languages and Tools: :hammer_and_pick:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,7 +18,7 @@ Final Year Student of Software Development at Galway-Mayo Institute of Technolog
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-[![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
+[![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields)
 
 ### View my Starred Repositories [here](https://github.com/johnshields?tab=stars).
 ***
