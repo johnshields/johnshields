@@ -14,8 +14,8 @@ Final Year Student of Software Development at Galway-Mayo Institute of Technolog
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 [![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
