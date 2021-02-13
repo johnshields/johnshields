@@ -24,9 +24,9 @@ Final Year Student of Software Development at Galway-Mayo Institute of Technolog
 ***
 
 ### Qualifications: :mortar_board:
-Bachler of Science in Computing in Software Development = :heavy_check_mark:
+Bachelor of Science in Computing in Software Development = :heavy_check_mark:
 
-Bachler of Science (Honours) in Computing in Software Development = `In Progress`
+Bachelor of Science (Honours) in Computing in Software Development = `In Progress`
 
 ***
 ### Interests and Hobbies: :runner:
