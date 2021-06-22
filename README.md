@@ -1,7 +1,7 @@
 ## Greetings, I'm John! :boom:
 
 ### About me: :zap:
-Final Year Student of Software Development at Galway-Mayo Institute of Technology who enjoys App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
+Software Development graduate who enjoys App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
 ###### View my Digital Portfolio [HERE](https://johnshields.github.io/).
 ***
