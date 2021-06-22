@@ -28,7 +28,7 @@ Software Development graduate who enjoys App Development, Game Development, Vide
 ### Qualifications: :mortar_board:
 Bachelor of Science in Computing in Software Development = :heavy_check_mark:
 
-Bachelor of Science (Honours) in Computing in Software Development = `In Progress`
+Bachelor of Science (Honours) in Computing in Software Development = :heavy_check_mark:
 
 ***
 ### Interests and Hobbies: :runner:
