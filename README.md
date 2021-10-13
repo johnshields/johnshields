@@ -1,7 +1,8 @@
 ## Greetings, I'm John! :boom:
 
 ### About me: :zap:
-Software Development graduate and currently studying a MSc in Serious Games & VR @ [The Glasgow School of Art (SimVis)](https://www.gsa.ac.uk/research/research-units/school-of-simulation-and-visualisation/)
+Software Development graduate and currently studying a MSc in Serious Games & VR @ [The Glasgow School of Art (SimVis)](https://www.gsa.ac.uk/research/research-units/school-of-simulation-and-visualisation/)!
+
 I enjoy App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
 ###### View my Digital Portfolio [HERE](https://johnshields.github.io/).
