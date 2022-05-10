@@ -44,9 +44,6 @@ Surfing 🏄
 ### John is now listening to: :notes:
 [![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
 
-### Favorite quote: :anchor:
-"I am a Man of Fortune, and I must seek my Fortune." - Henry Every.
-
 ***
 ### Find me on: :milky_way:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
