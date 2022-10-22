@@ -3,7 +3,7 @@
 ### About me: :zap:
 Graduate Developer at V.Group (GLA)!
 
-I enjoy App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
+I enjoy App Development, Game Development, Video Editing, Music Production, Film and Surfing!
 
 ###### View my Digital Portfolio [HERE](https://johnshields.github.io/).
 ***
