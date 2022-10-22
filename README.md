@@ -1,7 +1,7 @@
 ## Hello world, I'm John! :boom:
 
 ### About me: :zap:
-Software Development graduate and currently studying a MSc in Serious Games & VR @ [The Glasgow School of Art (SimVis)](https://www.gsa.ac.uk/research/research-units/school-of-simulation-and-visualisation/)!
+Graduate Developer at V.Group (GLA)!
 
 I enjoy App Development, Game Development, Video Editing, Music Production, Film, and Surfing!
 
