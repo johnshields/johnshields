@@ -33,8 +33,8 @@ MSc in Serious Games and VR = :heavy_check_mark:
 
 ***
 ### Interests and Hobbies: :runner:
-Video Editing :vhs: <br>
 Game Development :video_game: <br>
+Video Editing :vhs: <br>
 Film :movie_camera: <br>
 Surfing 🏄
 
