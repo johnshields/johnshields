@@ -29,7 +29,7 @@ I enjoy App Development, Game Development, Video Editing, Music Production, Film
 ### Qualifications: :mortar_board:
 Bachelor of Science (Honours) in Computing in Software Development = :heavy_check_mark:
 
-MSc in Serious Games and VR = :heavy_check_mark:
+Masters of Science in Serious Games and VR = :heavy_check_mark:
 
 ***
 ### Interests and Hobbies: :runner:
