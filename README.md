@@ -42,11 +42,5 @@ Surfing 🏄
 [![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179E)
 
 ***
-### Find me on the web: :milky_way:
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-shields-551b86165/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCFbvhF5iwewNmKh_aWzpqTQ)
-[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/john-shields-music)
-
-***
 
 ###### END OF README
