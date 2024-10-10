@@ -38,9 +38,6 @@ Video Editing :vhs: <br>
 Film :movie_camera: <br>
 Surfing 🏄
 
-### John is now listening to: :notes:
-[![Spotify](https://nova-github-player.vercel.app/api/spotify)](https://open.spotify.com/user/1157274179)
-
 ***
 
 ###### END OF README
