@@ -21,9 +21,6 @@ I enjoy App Development, Game Development, Video Editing, Music Production, Film
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-[![Top Langs](https://johnshields-github-stats.vercel.app/api/top-langs/?username=johnshields&langs_count=5&hide=javascript,html,ShaderLab,HLSL&&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/johnshields/github-readme-stats)
-
 ***
 
 ### Qualifications: :mortar_board:
