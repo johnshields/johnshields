@@ -2,7 +2,7 @@
 
 ### About me: :zap:
 
-I enjoy App Development, Game Development, Video Editing, Music Production, Film and Surfing!
+I enjoy app and game development, video editing, music production, film, and surfing!
 
 ###### View my Digital Portfolio [HERE](https://johnshields.github.io/).
 ***
