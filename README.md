@@ -5,7 +5,7 @@
 🎓 MSc in Serious Games & Virtual Reality | BSc in Software Development  
 🧩 Passionate about software development, game design, and creative tech 
 🛠️ I enjoy building full-stack applications, crafting clean backend APIs, and experimenting with Unity & Unreal  
-🎵 Outside of code, you’ll find me producing music, editing video, or catching waves 🌊
+🎵 Outside of code, you’ll find me making tunes, editing videos, or catching waves 🌊
 📍 Currently based in Sydney, open to in-office, remote, or relocation opportunities
 ```
 💼 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
