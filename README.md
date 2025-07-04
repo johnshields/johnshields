@@ -1,6 +1,5 @@
-# About Me :zap:
-
-## Hello world, I'm John! :boom:
+# Hello world, I'm John! :boom:
+## About Me :zap:
 
 ```
 🎓 MSc in Serious Games & Virtual Reality | BSc in Software Development  
@@ -33,7 +32,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL--Studio-FF6A00?style=for-the-badge&logo=flstudio&logoColor=white)
 
-### GitHub Profile: :octocat:
 [![JS Git Stats](https://github-stats-js.vercel.app/api?username=johnshields&include_all_commits=true&&hide=contribs,prs&&theme=tokyonight&show_icons=true&hide_border=true")](https://github.com/johnshields/github-readme-stats)
 
 ###### END OF README
