@@ -2,10 +2,9 @@
 ## About Me :zap:
 
 ```
-🧩 Passionate about software development, game design, and creative tech
-🛠️ I enjoy crafting full-stack applications, building backend APIs, and making games!
-🎵 Outside of code, you’ll find me making tunes, editing videos, or catching waves 🌊
-📍 Currently based in Sydney and open to opportunities!
+🧩 Passionate about software development, game design, and creative tech.
+🛠️ I enjoy crafting full-stack applications, building backend APIs, and making games.
+🎵 Outside of code, you’ll find me making tunes, editing videos, or catching waves! 🌊
 🎓 MSc in Serious Games & Virtual Reality | BSc in Software Development
 ```
 
