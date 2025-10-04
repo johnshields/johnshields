@@ -1,5 +1,5 @@
 # Hi, I'm John! :boom:
-## About Me :zap:
+## About Me :bookmark_tabs:
 
 ```
 🎓 MSc in Serious Games & Virtual Reality | BSc in Software Development
