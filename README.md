@@ -10,7 +10,7 @@
 
 💼 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
 
-🎵 **Check out my music** → [uptonetracks.com](https://uptonetracks.com/)
+🎵 **Check out my music** → [fromlost.com](https://fromlost.com/)
 
 ## My Toolkit 🛠
 
