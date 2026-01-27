@@ -1,12 +1,6 @@
 # Hi, I'm John! :boom:
-## About Me :bookmark_tabs:
 
-```
-🎓 MSc in Serious Games & Virtual Reality | BSc in Software Development
-🧩 Passionate about software development, game design, and creative tech.
-🛠️ I enjoy crafting full-stack applications, building backend APIs, and making games.
-🎵 Outside of code, you’ll find me making tunes, editing videos, hiking or catching waves! 🌊
-```
+MSc Serious Games & VR – BSc Software Development | Full-stack & game developer | music, video, hiking, surfing
 
 💼 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
 
@@ -46,7 +40,3 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-###### END OF README
