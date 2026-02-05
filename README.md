@@ -2,7 +2,7 @@
 
 MSc Serious Games & VR – BSc Software Development | Full-stack & game developer | music, video, hiking, surfing
 
-💼 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
+💾 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
 
 🎵 **Check out my music** → [fromlost.com](https://fromlost.com/)
 
