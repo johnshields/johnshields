@@ -1,6 +1,6 @@
 # Hi, I'm John! :boom:
 
- Full-stack Software Engineer & game developer | MSc Serious Games & VR – BSc Software Development
+ Full-stack Software Engineer & Game Developer | MSc Serious Games & VR – BSc Software Development
 
 💾 **Check out my portfolio** → [johnshields.github.io](https://johnshields.github.io)
 
