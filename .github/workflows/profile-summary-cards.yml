@@ -24,18 +24,14 @@ jobs:
           AUTO_PUSH: false
           EXCLUDE: ""
           NAME: johnshields
-      - name: Prune unused cards
+      - name: Move contribution card into assets
         run: |
-          rm -f profile-summary-card-output/README.md
-          rm -f profile-summary-card-output/github_dark/README.md
-          rm -f profile-summary-card-output/github_dark/1-repos-per-language.svg
-          rm -f profile-summary-card-output/github_dark/2-most-commit-language.svg
-          rm -f profile-summary-card-output/github_dark/3-stats.svg
-          rm -f profile-summary-card-output/github_dark/4-productive-time.svg
+          mv profile-summary-card-output/github_dark/0-profile-details.svg assets/0-profile-details.svg
+          rm -rf profile-summary-card-output
       - name: Commit profile details card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/github_dark/0-profile-details.svg
+          git add assets/0-profile-details.svg
           git diff --cached --quiet || git commit -m "chore: update GitHub contribution card"
           git push
