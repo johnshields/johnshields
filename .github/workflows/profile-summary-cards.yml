@@ -21,6 +21,21 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: "+00:00"
           THEME: github_dark
-          AUTO_PUSH: true
+          AUTO_PUSH: false
           EXCLUDE: ""
           NAME: johnshields
+      - name: Prune unused cards
+        run: |
+          rm -f profile-summary-card-output/README.md
+          rm -f profile-summary-card-output/github_dark/README.md
+          rm -f profile-summary-card-output/github_dark/1-repos-per-language.svg
+          rm -f profile-summary-card-output/github_dark/2-most-commit-language.svg
+          rm -f profile-summary-card-output/github_dark/3-stats.svg
+          rm -f profile-summary-card-output/github_dark/4-productive-time.svg
+      - name: Commit profile details card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/github_dark/0-profile-details.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub contribution card"
+          git push
