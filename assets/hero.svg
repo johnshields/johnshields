@@ -1,0 +1,20 @@
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">John Shields, full-stack software engineer</title>
+  <desc id="desc">Full-stack software engineer, M.Sc. &amp; B.Sc.</desc>
+  <style>
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
+    .headline { font: italic 600 38px Georgia, 'Times New Roman', serif; fill: #1f2328; }
+    .copy { font: 400 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+    .rule { stroke: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .label, .copy { fill: #8b949e; }
+      .headline { fill: #f0f6fc; }
+      .rule { stroke: #30363d; }
+    }
+  </style>
+  <text x="2" y="26" class="label">JOHN SHIELDS / SOFTWARE ENGINEER</text>
+  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
+  <text x="2" y="113" class="headline">Full Stack Software Engineer</text>
+  <text x="4" y="158" class="copy">M.Sc. &amp; B.Sc.</text>
+  <line x1="2" y1="192" x2="878" y2="192" class="rule" />
+</svg>

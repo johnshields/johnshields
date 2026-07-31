@@ -1,0 +1,14 @@
+<svg width="280" height="76" viewBox="0 0 280 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Portfolio</title><desc id="d">Visit johnshields.github.io</desc>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}.label{font:600 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.6px;fill:#656d76}.value{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#1f2328}.icon{fill:#cf222e}.glyph{fill:none;stroke:#fff;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.arrow{fill:#656d76}
+    @media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.label,.arrow{fill:#8b949e}.value{fill:#f0f6fc}.icon{fill:#ff6a69}}
+  </style>
+  <rect class="card" x=".5" y=".5" width="279" height="75" rx="10"/>
+  <rect class="icon" x="22" y="26" width="24" height="24" rx="5"/>
+  <g class="glyph" transform="translate(27,31) scale(0.583)">
+    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"/>
+    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+  </g>
+  <text class="label" x="60" y="29">PORTFOLIO</text><text class="value" x="60" y="51">johnshields.github.io</text>
+</svg>
