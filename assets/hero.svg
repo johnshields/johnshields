@@ -1,4 +1,4 @@
-<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="880" height="160" viewBox="0 0 880 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">John Shields, full-stack software engineer</title>
   <desc id="desc">Full-stack software engineer, M.Sc. &amp; B.Sc.</desc>
   <style>
@@ -12,9 +12,7 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <text x="2" y="26" class="label">JOHN SHIELDS / SOFTWARE ENGINEER</text>
-  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="2" y="113" class="headline">Full Stack Software Engineer</text>
-  <text x="4" y="158" class="copy">M.Sc. &amp; B.Sc.</text>
-  <line x1="2" y1="192" x2="878" y2="192" class="rule" />
+  <text x="2" y="68" class="headline">Full Stack Software Engineer</text>
+  <text x="4" y="113" class="copy">M.Sc. &amp; B.Sc.</text>
+  <line x1="2" y1="147" x2="878" y2="147" class="rule" />
 </svg>
