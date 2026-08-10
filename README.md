@@ -2,7 +2,6 @@
 
 <a href="https://johnshields.github.io"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio - johnshields.github.io" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/johnshlds/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn" /></a>&nbsp;
-<a href="https://fromlost.com"><img src="./assets/link-music.svg" width="31.5%" alt="John from Lost" /></a>
 
 ## Toolkit
 
