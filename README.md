@@ -1,4 +1,4 @@
-<img src="./assets/hero.svg" alt="John Shields - Full Stack Software Engineer" width="100%" />
+<img src="./assets/hero.svg" alt="John Shields - Full Stack Engineer" width="100%" />
 
 <a href="https://johnshields.github.io"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio - johnshields.github.io" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/johnshlds/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn" /></a>&nbsp;
