@@ -12,7 +12,7 @@
       .rule { stroke: #30363d; }
     }
   </style>
-  <text x="2" y="68" class="headline">Full Stack Software Engineer</text>
+  <text x="2" y="68" class="headline">Full Stack Engineer</text>
   <text x="4" y="113" class="copy">M.Sc. &amp; B.Sc.</text>
   <line x1="2" y1="147" x2="878" y2="147" class="rule" />
 </svg>
