@@ -1,6 +1,6 @@
 <svg width="880" height="160" viewBox="0 0 880 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">John Shields, full-stack software engineer</title>
-  <desc id="desc">Full-stack software engineer, M.Sc. &amp; B.Sc.</desc>
+  <title id="title">John Shields, full-stack engineer</title>
+  <desc id="desc">Full-stack engineer, M.Sc. &amp; B.Sc.</desc>
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
     .headline { font: italic 600 38px Georgia, 'Times New Roman', serif; fill: #1f2328; }
